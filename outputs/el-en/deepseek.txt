@@ -1,0 +1,700 @@
+For the greek sentence:  Επαvάληψη της συvσδoυ
+The english sentence:  Resumption of the session
+Ai generated Translation:  Reiteration of the meeting.
+BERTScore Precision: 0.7106, Recall: 0.7220, F1: 0.7163
+METEOR Score: 0.46875
+Rouge Score: {'rouge1': np.float64(0.5), 'rouge2': np.float64(0.3333333333333333), 'rougeL': np.float64(0.5), 'rougeLsum': np.float64(0.5)}
+---------------------------------------------
+For the greek sentence:  Κηρύσσω την επανάληψη της συνόδου του Ευρωπαϊκού Κοινοβουλίου η οποία είχε διακοπεί την Παρασκευή 17 Δεκεμβρίου και σας απευθύνω ξανά τις θερμές ευχές μου, ελπίζοντας να περάσατε καλά στις διακοπές.
+The english sentence:  I declare resumed the session of the European Parliament adjourned on Friday 17 December 1999, and I would like once again to wish you a happy new year in the hope that you enjoyed a pleasant festive period.
+Ai generated Translation:  I declare the resumption of the session of the European Parliament, which had been adjourned on Friday, 17 December, and I once again extend my warmest wishes to you, hoping you enjoyed the holidays.
+BERTScore Precision: 0.7760, Recall: 0.7547, F1: 0.7652
+METEOR Score: 0.4876662234042553
+Rouge Score: {'rouge1': np.float64(0.6111111111111113), 'rouge2': np.float64(0.37142857142857144), 'rougeL': np.float64(0.5833333333333334), 'rougeLsum': np.float64(0.5833333333333334)}
+---------------------------------------------
+For the greek sentence:  Όπως μπορέσατε να διαπιστώσετε, ο περίφημος "ιός του έτους 2000" δεν εμφανίσθηκε. Αντιθέτως, οι πολίτες ορισμένων χωρών μας υπήρξαν θύματα φυσικών καταστροφών, οι οποίες ήταν όντως φοβερές.
+The english sentence:  Although, as you will have seen, the dreaded 'millennium bug' failed to materialise, still the people in a number of countries suffered a series of natural disasters that truly were dreadful.
+Ai generated Translation:  As you were able to ascertain, the famed "Year 2000 virus" did not materialize. On the contrary, citizens of some of our countries fell victim to natural disasters, which were indeed terrible.
+BERTScore Precision: 0.6967, Recall: 0.7219, F1: 0.7091
+METEOR Score: 0.20434083601286174
+Rouge Score: {'rouge1': np.float64(0.3492063492063492), 'rouge2': np.float64(0.06557377049180328), 'rougeL': np.float64(0.28571428571428575), 'rougeLsum': np.float64(0.28571428571428575)}
+---------------------------------------------
+For the greek sentence:  Επιθυμείτε μία συζήτηση επί του θέματος τις επόμενες ημέρες, κατά τη διάρκεια της τρέχουσας περιόδου συνόδου.
+The english sentence:  You have requested a debate on this subject in the course of the next few days, during this part-session.
+Ai generated Translation:  Do you wish to have a discussion on the topic in the coming days during the current session period?
+BERTScore Precision: 0.7423, Recall: 0.6964, F1: 0.7186
+METEOR Score: 0.36224821312540606
+Rouge Score: {'rouge1': np.float64(0.5128205128205129), 'rouge2': np.float64(0.10810810810810811), 'rougeL': np.float64(0.46153846153846156), 'rougeLsum': np.float64(0.46153846153846156)}
+---------------------------------------------
+For the greek sentence:  Επί του παρόντος θα ήθελα, όπως μου ζήτησαν ορισμένοι συνάδελφοι, να τηρήσουμε ενός λεπτού σιγή για όλα τα θύματα, κυρίως για τα θύματα των καταιγίδων, στις διάφορες πληγείσες χώρες της Ευρωπαϊκής Ένωσης.
+The english sentence:  In the meantime, I should like to observe a minute' s silence, as a number of Members have requested, on behalf of all the victims concerned, particularly those of the terrible storms, in the various countries of the European Union.
+Ai generated Translation:  At present, I would like, as some colleagues have requested, to observe a minute of silence for all victims, particularly for the victims of the storms, in the various affected countries of the European Union.
+BERTScore Precision: 0.8400, Recall: 0.8055, F1: 0.8224
+METEOR Score: 0.5409298652819985
+Rouge Score: {'rouge1': np.float64(0.6933333333333334), 'rouge2': np.float64(0.35616438356164387), 'rougeL': np.float64(0.56), 'rougeLsum': np.float64(0.56)}
+---------------------------------------------
+For the greek sentence:  Σας καλώ να σηκωθείτε για αυτή την ενός λεπτού σιγή.
+The english sentence:  Please rise, then, for this minute' s silence.
+Ai generated Translation:  I invite you to rise for this minute of silence.
+BERTScore Precision: 0.6923, Recall: 0.6821, F1: 0.6871
+METEOR Score: 0.3116531165311653
+Rouge Score: {'rouge1': np.float64(0.5555555555555556), 'rouge2': np.float64(0.25), 'rougeL': np.float64(0.5555555555555556), 'rougeLsum': np.float64(0.5555555555555556)}
+---------------------------------------------
+For the greek sentence:  (Το Σώμα, όρθιο, τηρεί ενός λεπτού σιγή)
+The english sentence:  (The House rose and observed a minute' s silence)
+Ai generated Translation:  The Body, upright, observes a minute of silence.
+BERTScore Precision: 0.6426, Recall: 0.6434, F1: 0.6430
+METEOR Score: 0.21067415730337075
+Rouge Score: {'rouge1': np.float64(0.47058823529411764), 'rouge2': np.float64(0.13333333333333333), 'rougeL': np.float64(0.47058823529411764), 'rougeLsum': np.float64(0.47058823529411764)}
+---------------------------------------------
+For the greek sentence:  Kυρία Πρόεδρε, επί ενός θέματος διαδικασίας.
+The english sentence:  Madam President, on a point of order.
+Ai generated Translation:  Madam President, on a point of order.
+BERTScore Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+METEOR Score: 0.9985422740524781
+Rouge Score: {'rouge1': np.float64(1.0), 'rouge2': np.float64(1.0), 'rougeL': np.float64(1.0), 'rougeLsum': np.float64(1.0)}
+---------------------------------------------
+For the greek sentence:  Θα έχετε ενημερωθεί από τον τύπο και την τηλεόραση ότι συνέβησαν ορισμένες εκρήξεις βομβών και φόνοι στη Σρι Λάνκα.
+The english sentence:  You will be aware from the press and television that there have been a number of bomb explosions and killings in Sri Lanka.
+Ai generated Translation:  You have been informed by the press and television that some bomb explosions and murders occurred in Sri Lanka.
+BERTScore Precision: 0.8750, Recall: 0.8423, F1: 0.8583
+METEOR Score: 0.6053594003973272
+Rouge Score: {'rouge1': np.float64(0.6666666666666666), 'rouge2': np.float64(0.45), 'rougeL': np.float64(0.5714285714285715), 'rougeLsum': np.float64(0.5714285714285715)}
+---------------------------------------------
+For the greek sentence:  Ένας από τους ανθρώπους που δολοφονήθηκαν πολύ πρόσφατα στη Σρι Λάνκα ήταν ο κ. Kumar Ponnambalam, ο οποίος είχε επισκεφθεί το Ευρωπαϊκό Κοινοβούλιο μόλις πριν λίγους μήνες.
+The english sentence:  One of the people assassinated very recently in Sri Lanka was Mr Kumar Ponnambalam, who had visited the European Parliament just a few months ago.
+Ai generated Translation:  One of the people who were killed very recently in Sri Lanka was Mr. Kumar Ponnambalam, who had visited the European Parliament just a few months ago.
+BERTScore Precision: 0.9426, Recall: 0.9795, F1: 0.9607
+METEOR Score: 0.9116857202868546
+Rouge Score: {'rouge1': np.float64(0.923076923076923), 'rouge2': np.float64(0.8799999999999999), 'rougeL': np.float64(0.923076923076923), 'rougeLsum': np.float64(0.923076923076923)}
+---------------------------------------------
+For the greek sentence:  Θα το θεωρούσατε σωστό, κυρία Πρόεδρε, να γράψετε μία επιστολή στην Πρόεδρο της Σρι Λάνκα, όπου θα εκφράζετε τη λύπη του Κοινοβουλίου για τον θάνατό του και τους άλλους βίαιους θανάτους στη Σρι Λάνκα και θα την παρακινείτε να πράξει οτιδήποτε είναι δυνατό, από την πλευρά της, για να αναζητήσει μια ειρηνική διευθέτηση σε μια πολύ δύσκολη κατάσταση;
+The english sentence:  Would it be appropriate for you, Madam President, to write a letter to the Sri Lankan President expressing Parliament's regret at his and the other violent deaths in Sri Lanka and urging her to do everything she possibly can to seek a peaceful reconciliation to a very difficult situation?
+Ai generated Translation:  Would you consider it appropriate, Madam President, to write a letter to the President of Sri Lanka expressing Parliament’s sorrow over his death and the other violent deaths in Sri Lanka, and urging her to do everything possible on her part to seek a peaceful settlement in a very difficult situation?
+BERTScore Precision: 0.8949, Recall: 0.9153, F1: 0.9050
+METEOR Score: 0.675066999977479
+Rouge Score: {'rouge1': np.float64(0.7843137254901961), 'rouge2': np.float64(0.5599999999999999), 'rougeL': np.float64(0.7450980392156863), 'rougeLsum': np.float64(0.7450980392156863)}
+---------------------------------------------
+For the greek sentence:  Ναι, κύριε Evans, θεωρώ ότι μία πρωτοβουλία με την έννοια που μόλις προτείνατε θα ήταν απολύτως ενδεδειγμένη.
+The english sentence:  Yes, Mr Evans, I feel an initiative of the type you have just suggested would be entirely appropriate.
+Ai generated Translation:  Yes, Mr. Evans, I believe that an initiative along the lines you just proposed would be absolutely appropriate.
+BERTScore Precision: 0.8530, Recall: 0.8648, F1: 0.8589
+METEOR Score: 0.4935720844811754
+Rouge Score: {'rouge1': np.float64(0.6666666666666666), 'rouge2': np.float64(0.29411764705882354), 'rougeL': np.float64(0.6666666666666666), 'rougeLsum': np.float64(0.6666666666666666)}
+---------------------------------------------
+For the greek sentence:  Εάν το Σώμα συμφωνεί θα πράξω όπως πρότεινε ο κ. Evans.
+The english sentence:  If the House agrees, I shall do as Mr Evans has suggested.
+Ai generated Translation:  If the Body agrees, I will proceed as Mr. Evans proposed.
+BERTScore Precision: 0.8341, Recall: 0.8392, F1: 0.8367
+METEOR Score: 0.4295051353874883
+Rouge Score: {'rouge1': np.float64(0.6086956521739131), 'rouge2': np.float64(0.380952380952381), 'rougeL': np.float64(0.6086956521739131), 'rougeLsum': np.float64(0.6086956521739131)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, επί ενός θέματος διαδικασίας.
+The english sentence:  Madam President, on a point of order.
+Ai generated Translation:  Madam President, on a matter of procedure.
+BERTScore Precision: 0.8541, Recall: 0.8541, F1: 0.8541
+METEOR Score: 0.6914285714285714
+Rouge Score: {'rouge1': np.float64(0.7142857142857143), 'rouge2': np.float64(0.5), 'rougeL': np.float64(0.7142857142857143), 'rougeLsum': np.float64(0.7142857142857143)}
+---------------------------------------------
+For the greek sentence:  Θα ήθελα τη συμβουλή σας για το άρθρο 143 περί του μη παραδεκτού.
+The english sentence:  I would like your advice about Rule 143 concerning inadmissibility.
+Ai generated Translation:  I would like your advice regarding Article 143 concerning the inadmissible.
+BERTScore Precision: 0.8952, Recall: 0.9190, F1: 0.9069
+METEOR Score: 0.6849868660335421
+Rouge Score: {'rouge1': np.float64(0.6666666666666666), 'rouge2': np.float64(0.5263157894736842), 'rougeL': np.float64(0.6666666666666666), 'rougeLsum': np.float64(0.6666666666666666)}
+---------------------------------------------
+For the greek sentence:  Το ερώτημά μου αφορά κάτι που θα τεθεί προς συζήτηση την Πέμπτη, το οποίο θα θέσω τότε ξανά.
+The english sentence:  My question relates to something that will come up on Thursday and which I will then raise again.
+Ai generated Translation:  My question concerns something that will be put up for discussion on Thursday, which I will raise again then.
+BERTScore Precision: 0.7840, Recall: 0.8358, F1: 0.8091
+METEOR Score: 0.5584219898634766
+Rouge Score: {'rouge1': np.float64(0.7567567567567567), 'rouge2': np.float64(0.39999999999999997), 'rougeL': np.float64(0.7027027027027027), 'rougeLsum': np.float64(0.7027027027027027)}
+---------------------------------------------
+For the greek sentence:  Η έκθεση Cunha, σχετικά με τα πολυετή προγράμματα προσανατολισμού, θα τεθεί ενώπιον του Κοινοβουλίου την Πέμπτη και περιέχει μία πρόταση στην παράγραφο 6, ότι πρέπει να θεσπισθούν κυρώσεις με τη μορφή ποσοστώσεων για τις χώρες που αποτυγχάνουν να επιτύχουν ετησίως τους στόχους μείωσης των στόλων τους.
+The english sentence:  The Cunha report on multiannual guidance programmes comes before Parliament on Thursday and contains a proposal in paragraph 6 that a form of quota penalties should be introduced for countries which fail to meet their fleet reduction targets annually.
+Ai generated Translation:  The Cunha report on multi-annual orientation programmes will be tabled before Parliament on Thursday and includes a proposal in paragraph 6 that sanctions in the form of quotas should be established for countries failing to meet annual fleet reduction targets.
+BERTScore Precision: 0.8515, Recall: 0.8734, F1: 0.8623
+METEOR Score: 0.680277545800929
+Rouge Score: {'rouge1': np.float64(0.675), 'rouge2': np.float64(0.46153846153846156), 'rougeL': np.float64(0.675), 'rougeLsum': np.float64(0.675)}
+---------------------------------------------
+For the greek sentence:  Αναφέρει ότι αυτό πρέπει να πραγματοποιηθεί παρά την αρχή της σχετικής σταθερότητας.
+The english sentence:  It says that this should be done despite the principle of relative stability.
+Ai generated Translation:  It states that this must be implemented despite the principle of relative stability.
+BERTScore Precision: 0.9374, Recall: 0.9374, F1: 0.9374
+METEOR Score: 0.8375715193897013
+Rouge Score: {'rouge1': np.float64(0.7692307692307693), 'rouge2': np.float64(0.5), 'rougeL': np.float64(0.7692307692307693), 'rougeLsum': np.float64(0.7692307692307693)}
+---------------------------------------------
+For the greek sentence:  Θεωρώ ότι η αρχή της σχετικής σταθερότητας συνιστά θεμελιώδη νομική αρχή της κοινής αλιευτικής πολιτικής και μια πρόταση ανατροπής της θα ήταν νομικά απαράδεκτη.
+The english sentence:  I believe that the principle of relative stability is a fundamental legal principle of the common fisheries policy and a proposal to subvert it would be legally inadmissible.
+Ai generated Translation:  I consider that the principle of relative stability constitutes a fundamental legal principle of the common fisheries policy, and a proposal to overturn it would be legally unacceptable.
+BERTScore Precision: 0.9215, Recall: 0.8939, F1: 0.9075
+METEOR Score: 0.8551587301587302
+Rouge Score: {'rouge1': np.float64(0.8571428571428571), 'rouge2': np.float64(0.7407407407407407), 'rougeL': np.float64(0.8571428571428571), 'rougeLsum': np.float64(0.8571428571428571)}
+---------------------------------------------
+For the greek sentence:  Θέλω να μάθω εάν μπορεί κανείς να θέσει μία ένσταση τέτοιου είδους σε ένα έγγραφο που είναι απλώς έκθεση, και όχι πρόταση νομοθετικού περιεχομένου, και εάν έχω την αρμοδιότητα να το πράξω αυτό την Πέμπτη.
+The english sentence:  I want to know whether one can raise an objection of that kind to what is merely a report, not a legislative proposal, and whether that is something I can competently do on Thursday.
+Ai generated Translation:  I want to know if one can submit such an objection to a document that is merely a report, and not a legislative proposal, and whether I have the authority to do so this Thursday.
+BERTScore Precision: 0.8284, Recall: 0.8110, F1: 0.8196
+METEOR Score: 0.6135906291403579
+Rouge Score: {'rouge1': np.float64(0.6666666666666666), 'rouge2': np.float64(0.41791044776119407), 'rougeL': np.float64(0.6376811594202899), 'rougeLsum': np.float64(0.6376811594202899)}
+---------------------------------------------
+For the greek sentence:  Ακριβώς εκείνη τη στιγμή θα μπορέσετε πράγματι, εάν το επιθυμείτε, να θέσετε αυτό το ερώτημα, δηλαδή την Πέμπτη πριν την έναρξη της παρουσίασης της έκθεσης.
+The english sentence:  That is precisely the time when you may, if you wish, raise this question, i.e. on Thursday prior to the start of the presentation of the report.
+Ai generated Translation:  Exactly at that moment, you will indeed be able, if you wish, to pose that question, that is, on Thursday before the start of the presentation of the report.
+BERTScore Precision: 0.7775, Recall: 0.7951, F1: 0.7862
+METEOR Score: 0.6031828821493995
+Rouge Score: {'rouge1': np.float64(0.6315789473684211), 'rouge2': np.float64(0.39999999999999997), 'rougeL': np.float64(0.5614035087719299), 'rougeLsum': np.float64(0.5614035087719299)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, ταυτόχρονα με την πρώτη περίοδο συνόδου του Ευρωπαϊκού Κοινοβουλίου αυτού του έτους, στις Ηνωμένες Πολιτείες και συγκεκριμένα στο Τέξας, ορίστηκε η ημερομηνία, για την επόμενη Πέμπτη δυστυχώς, της εκτέλεσης ενός θανατοποινίτη, ενός νέου 34 ετών με το όνομα Hicks.
+The english sentence:  Madam President, coinciding with this year' s first part-session of the European Parliament, a date has been set, unfortunately for next Thursday, in Texas in America, for the execution of a young 34 year-old man who has been sentenced to death. We shall call him Mr Hicks.
+Ai generated Translation:  Madam President, simultaneously with the first session of the European Parliament this year, in the United States, specifically in Texas, the date was set, unfortunately for next Thursday, for the execution of a death row inmate, a 34-year-old man named Hicks.
+BERTScore Precision: 0.8051, Recall: 0.7423, F1: 0.7724
+METEOR Score: 0.45408620689655155
+Rouge Score: {'rouge1': np.float64(0.6956521739130435), 'rouge2': np.float64(0.39999999999999997), 'rougeL': np.float64(0.5434782608695652), 'rougeLsum': np.float64(0.5434782608695652)}
+---------------------------------------------
+For the greek sentence:  Κατόπιν πρωτοβουλίας ενός γάλλου βουλευτή, του κ. Zimeray, έχει ήδη κατατεθεί αίτηση πολλών συνυπογραφόντων, συμπεριλαμβανομένου του ομιλούντος, σας ζητώ ωστόσο, στο πνεύμα της κατεύθυνσης που χάραξαν το Ευρωπαϊκό Κοινοβούλιο και ολόκληρη η Ευρωπαϊκή Κοινότητα, να παρέμβετε, με το κύρος του αξιώματός σας και του θεσμικού οργάνου που εκπροσωπείτε, προς τον Πρόεδρο και τον Κυβερνήτη του Τέξας Bush, που έχει την εξουσία να αναστείλει τη θανατική καταδίκη και να απονείμει χάρη στον κατάδικο.
+The english sentence:  At the request of a French Member, Mr Zimeray, a petition has already been presented, which many people signed, including myself. However, I would ask you, in accordance with the line which is now constantly followed by the European Parliament and by the whole of the European Community, to make representations, using the weight of your prestigious office and the institution you represent, to the President and to the Governor of Texas, Mr Bush, who has the power to order a stay of execution and to reprieve the condemned person.
+Ai generated Translation:  Following the initiative of a French Member of Parliament, Mr. Zimeray, a petition has already been submitted by numerous co-signatories, including the undersigned. However, in the spirit of the direction set by the European Parliament and the entire European Community, I urge you to intervene, with the authority of your office and the institutional body you represent, to address the President and Governor of Texas, Bush, who holds the power to suspend the death sentence and grant clemency to the convict.
+BERTScore Precision: 0.7773, Recall: 0.7864, F1: 0.7818
+METEOR Score: 0.4926008486078251
+Rouge Score: {'rouge1': np.float64(0.6511627906976744), 'rouge2': np.float64(0.34117647058823536), 'rougeL': np.float64(0.5581395348837209), 'rougeLsum': np.float64(0.5581395348837209)}
+---------------------------------------------
+For the greek sentence:  Η στάση αυτή είναι συνεπής με τις αρχές που πάντα προσπίζαμε.
+The english sentence:  This is all in accordance with the principles that we have always upheld.
+Ai generated Translation:  This stance is consistent with the principles we have always upheld.
+BERTScore Precision: 0.8822, Recall: 0.8353, F1: 0.8581
+METEOR Score: 0.6722608024691359
+Rouge Score: {'rouge1': np.float64(0.7500000000000001), 'rouge2': np.float64(0.45454545454545453), 'rougeL': np.float64(0.7500000000000001), 'rougeLsum': np.float64(0.7500000000000001)}
+---------------------------------------------
+For the greek sentence:  Ευχαριστώ κύριε Segni, θα το πράξω πολύ ευχαρίστως.
+The english sentence:  Thank you, Mr Segni, I shall do so gladly.
+Ai generated Translation:  Thank you, Mr. Segni, I will do so most gladly.
+BERTScore Precision: 0.9102, Recall: 0.9587, F1: 0.9338
+METEOR Score: 0.6974657995066158
+Rouge Score: {'rouge1': np.float64(0.8421052631578948), 'rouge2': np.float64(0.5882352941176471), 'rougeL': np.float64(0.8421052631578948), 'rougeLsum': np.float64(0.8421052631578948)}
+---------------------------------------------
+For the greek sentence:  Πράγματι, ευθυγραμμίζεται απολύτως με τις θέσεις που ανέκαθεν υιοθετούσε το Κοινοβούλιό μας.
+The english sentence:  Indeed, it is quite in keeping with the positions this House has always adopted.
+Ai generated Translation:  Indeed, it is absolutely aligned with the positions that our Parliament has consistently adopted.
+BERTScore Precision: 0.7960, Recall: 0.7963, F1: 0.7962
+METEOR Score: 0.5357142857142857
+Rouge Score: {'rouge1': np.float64(0.5714285714285714), 'rouge2': np.float64(0.3076923076923077), 'rougeL': np.float64(0.5714285714285714), 'rougeLsum': np.float64(0.5714285714285714)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, θα ήθελα να επιστήσω την προσοχή σας σε μία περίπτωση με την οποία έχει ασχοληθεί επανειλημμένα αυτό το Κοινοβούλιο.
+The english sentence:  Madam President, I should like to draw your attention to a case in which this Parliament has consistently shown an interest.
+Ai generated Translation:  Madam President, I would like to draw your attention to a case with which this Parliament has dealt on multiple occasions.
+BERTScore Precision: 0.8642, Recall: 0.8636, F1: 0.8639
+METEOR Score: 0.7114285714285714
+Rouge Score: {'rouge1': np.float64(0.7142857142857143), 'rouge2': np.float64(0.6), 'rougeL': np.float64(0.7142857142857143), 'rougeLsum': np.float64(0.7142857142857143)}
+---------------------------------------------
+For the greek sentence:  Εννοώ την περίπτωση του Alexander Nikitin.
+The english sentence:  It is the case of Alexander Nikitin.
+Ai generated Translation:  I mean the case of Alexander Nikitin.
+BERTScore Precision: 0.7117, Recall: 0.7325, F1: 0.7220
+METEOR Score: 0.7114285714285714
+Rouge Score: {'rouge1': np.float64(0.7142857142857143), 'rouge2': np.float64(0.6666666666666666), 'rougeL': np.float64(0.7142857142857143), 'rougeLsum': np.float64(0.7142857142857143)}
+---------------------------------------------
+For the greek sentence:  Όλοι εδώ χαιρόμαστε που τον αθώωσε το δικαστήριο, καθιστώντας σαφές ότι η πρόσβαση σε πληροφορίες που αφορούν το περιβάλλον αποτελεί συνταγματικό δικαίωμα και στη Ρωσία.
+The english sentence:  All of us here are pleased that the courts have acquitted him and made it clear that in Russia, too, access to environmental information is a constitutional right.
+Ai generated Translation:  All of us here are glad that the court acquitted him, making it clear that access to environmental information constitutes a constitutional right even in Russia.
+BERTScore Precision: 0.9087, Recall: 0.8670, F1: 0.8873
+METEOR Score: 0.6964028776978417
+Rouge Score: {'rouge1': np.float64(0.7777777777777779), 'rouge2': np.float64(0.5384615384615384), 'rougeL': np.float64(0.7037037037037038), 'rougeLsum': np.float64(0.7037037037037038)}
+---------------------------------------------
+For the greek sentence:  Τώρα όμως μαθαίνουμε πως ο Alexander Nikitin πρόκειται να κατηγορηθεί εκ νέου, αφού θα ασκήσει έφεση η εισαγγελία.
+The english sentence:  Now, however, he is to go before the courts once more because the public prosecutor is appealing.
+Ai generated Translation:  However, we now learn that Alexander Nikitin is set to be charged anew, as the prosecution is to file an appeal.
+BERTScore Precision: 0.5871, Recall: 0.6384, F1: 0.6117
+METEOR Score: 0.14367816091954025
+Rouge Score: {'rouge1': np.float64(0.31578947368421056), 'rouge2': np.float64(0.05555555555555556), 'rougeL': np.float64(0.2631578947368421), 'rougeLsum': np.float64(0.2631578947368421)}
+---------------------------------------------
+For the greek sentence:  Γνωρίζουμε, και το έχουμε διαπιστώσει σε πάρα πολλά, όντως, ψηφίσματα - ειδικά κατά τη διάρκεια της τελευταίας περιόδου συνόδου του προηγούμενου έτους - ότι αυτό δεν αποτελεί νομική μόνον υπόθεση αλλά και ότι είναι λάθος να κατηγορείται ο Alexander Nikitin για εγκληματική δράση και προδοσία, επειδή εμείς επωφελούμεθα ως θιγόμενοι από τα πορίσματά του.
+The english sentence:  We know, and we have stated as much in very many resolutions indeed, including specifically during the last plenary part-session of last year, that this is not solely a legal case and that it is wrong for Alexander Nikitin to be accused of criminal activity and treason because of our involvement as the beneficiaries of his findings.
+Ai generated Translation:  We are aware, and have indeed observed in numerous, indeed, resolutions—especially during the final session period of the previous year—that this is not solely a legal matter, and that it is incorrect to accuse Alexander Nikitin of criminal activity and treason, as we, as the affected parties, benefit from his findings.
+BERTScore Precision: 0.8059, Recall: 0.7805, F1: 0.7930
+METEOR Score: 0.5414856806301994
+Rouge Score: {'rouge1': np.float64(0.6486486486486486), 'rouge2': np.float64(0.33027522935779813), 'rougeL': np.float64(0.5765765765765765), 'rougeLsum': np.float64(0.5765765765765765)}
+---------------------------------------------
+For the greek sentence:  Τα εν λόγω πορίσματα συνιστούν τη βάση των ευρωπαϊκών προγραμμάτων για την προστασία της Θάλασσας του Μπάρεντ, και για τον λόγο αυτό σας παρακαλώ να μελετήσετε ένα σχέδιο επιστολής που θα σας περιγράψει τα σημαντικότερα γεγονότα και να καταστήσετε σαφή τη θέση αυτή στη Ρωσία στο πνεύμα των αποφάσεων του Κοινοβουλίου
+The english sentence:  These findings form the basis of the European programmes to protect the Barents Sea, and that is why I would ask you to examine a draft letter setting out the most important facts and to make Parliament's position, as expressed in the resolutions which it has adopted, clear as far as Russia is concerned.
+Ai generated Translation:  The aforementioned findings constitute the basis of the European programs for the protection of the Barents Sea, and for this reason, I kindly ask you to review a draft letter that will outline the most significant events and to clarify this position in Russia in the spirit of the Parliament's decisions.
+BERTScore Precision: 0.7880, Recall: 0.7496, F1: 0.7683
+METEOR Score: 0.40061511266421956
+Rouge Score: {'rouge1': np.float64(0.5233644859813084), 'rouge2': np.float64(0.28571428571428575), 'rougeL': np.float64(0.4485981308411215), 'rougeLsum': np.float64(0.4485981308411215)}
+---------------------------------------------
+For the greek sentence:  Βεβαίως, κυρία Schroedter, θα εξετάσω πολύ ευχαρίστως τα σχετικά με το συγκεκριμένο ζήτημα γεγονότα μόλις λάβω την επιστολή σας.
+The english sentence:  Yes, Mrs Schroedter, I shall be pleased to look into the facts of this case when I have received your letter.
+Ai generated Translation:  Certainly, Mrs. Schroedter, I will be very glad to examine the facts related to this specific issue as soon as I receive your letter.
+BERTScore Precision: 0.8207, Recall: 0.8639, F1: 0.8418
+METEOR Score: 0.44988941915958564
+Rouge Score: {'rouge1': np.float64(0.4888888888888889), 'rouge2': np.float64(0.18604651162790697), 'rougeL': np.float64(0.4888888888888889), 'rougeLsum': np.float64(0.4888888888888889)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, θα ήθελα καταρχάς να σας συγχαρώ που κρατήσατε το λόγο σας, γιατί διαπιστώνω όντως σε αυτήν την πρώτη περίοδο συνόδου του καινούργιου χρόνου ότι ο αριθμός των τηλεοπτικών σταθμών που πιάνουμε στο Σώμα αυξήθηκε δραματικά.
+The english sentence:  Madam President, I would firstly like to compliment you on the fact that you have kept your word and that, during this first part-session of the new year, the number of television channels in our offices has indeed increased considerably.
+Ai generated Translation:  Madam President, I would first like to congratulate you for keeping your speech, as I indeed observe during this first session period of the new year that the number of television stations we are covering in the Parliament has increased dramatically.
+BERTScore Precision: 0.8004, Recall: 0.7928, F1: 0.7966
+METEOR Score: 0.47225685785536164
+Rouge Score: {'rouge1': np.float64(0.6341463414634146), 'rouge2': np.float64(0.3), 'rougeL': np.float64(0.5609756097560976), 'rougeLsum': np.float64(0.5609756097560976)}
+---------------------------------------------
+For the greek sentence:  Όμως, κυρία Πρόεδρε, δεν έγινε αυτό που ζήτησα.
+The english sentence:  But, Madam President, my personal request has not been met.
+Ai generated Translation:  However, Madam President, what I requested was not done.
+BERTScore Precision: 0.7831, Recall: 0.7670, F1: 0.7750
+METEOR Score: 0.3188131313131313
+Rouge Score: {'rouge1': np.float64(0.3157894736842105), 'rouge2': np.float64(0.11764705882352941), 'rougeL': np.float64(0.3157894736842105), 'rougeLsum': np.float64(0.3157894736842105)}
+---------------------------------------------
+For the greek sentence:  Γιατί τώρα πιάνουμε δύο φινλανδικούς σταθμούς και έναν πορτογαλικό αλλά κανέναν ολλανδικό, ενώ αυτό σας είχα ζητήσει, επειδή και εμείς οι Ολλανδοί θέλουμε να παρακολουθούμε τα νέα κάθε μήνα κάθε φορά που μας στέλνουν εξορία εδώ.
+The english sentence:  Although there are now two Finnish channels and one Portuguese one, there is still no Dutch channel, which is what I had requested because Dutch people here like to be able to follow the news too when we are sent to this place of exile every month.
+Ai generated Translation:  Because now we are picking up two Finnish stations and one Portuguese one but no Dutch, even though I had asked you for this, because we Dutch also want to follow the news every month each time they send us into exile here.
+BERTScore Precision: 0.7426, Recall: 0.7238, F1: 0.7331
+METEOR Score: 0.3428155925229666
+Rouge Score: {'rouge1': np.float64(0.5333333333333333), 'rouge2': np.float64(0.25), 'rougeL': np.float64(0.4222222222222222), 'rougeLsum': np.float64(0.4222222222222222)}
+---------------------------------------------
+For the greek sentence:  Θα ήθελα λοιπόν να σας παρακαλέσω για άλλη μία φορά να φροντίσετε, ώστε να μπορούμε να πιάνουμε και έναν ολλανδικό σταθμό.
+The english sentence:  I would therefore once more ask you to ensure that we get a Dutch channel as well.
+Ai generated Translation:  So I would like to once again ask you to ensure that we can also pick up a Dutch station.
+BERTScore Precision: 0.8081, Recall: 0.8333, F1: 0.8205
+METEOR Score: 0.6205512826637367
+Rouge Score: {'rouge1': np.float64(0.5945945945945946), 'rouge2': np.float64(0.39999999999999997), 'rougeL': np.float64(0.5945945945945946), 'rougeLsum': np.float64(0.5945945945945946)}
+---------------------------------------------
+For the greek sentence:  Κυρία Plooij-van Gorsel, μπορώ να σας πω ότι αυτό το ζήτημα βρίσκεται στην ημερήσια διάταξη της συνεδρίασης των Κοσμητόρων που θα διεξαχθεί την Τετάρτη.
+The english sentence:  Mrs Plooij-van Gorsel, I can tell you that this matter is on the agenda for the Quaestors' meeting on Wednesday.
+Ai generated Translation:  Madam Plooij-van Gorsel, I can inform you that this issue is on the agenda of the Board of Governors' meeting to be held on Wednesday.
+BERTScore Precision: 0.8697, Recall: 0.8744, F1: 0.8721
+METEOR Score: 0.7082926829268292
+Rouge Score: {'rouge1': np.float64(0.6808510638297872), 'rouge2': np.float64(0.4444444444444445), 'rougeL': np.float64(0.6808510638297872), 'rougeLsum': np.float64(0.6808510638297872)}
+---------------------------------------------
+For the greek sentence:  Ελπίζω ότι θα εξετασθεί με θετικό πνεύμα.
+The english sentence:  It will, I hope, be examined in a positive light.
+Ai generated Translation:  I hope that it will be considered in a positive spirit.
+BERTScore Precision: 0.7714, Recall: 0.7159, F1: 0.7426
+METEOR Score: 0.5060506050605059
+Rouge Score: {'rouge1': np.float64(0.761904761904762), 'rouge2': np.float64(0.4210526315789474), 'rougeL': np.float64(0.5714285714285713), 'rougeLsum': np.float64(0.5714285714285713)}
+---------------------------------------------
+For the greek sentence:  Κυρία Lynne, έχετε απόλυτο δίκιο και θα εξακριβώσω εάν όντως όλα αυτά δεν έχουν γίνει.
+The english sentence:  Mrs Lynne, you are quite right and I shall check whether this has actually not been done.
+Ai generated Translation:  Mrs. Lynne, you are absolutely right and I will verify whether indeed all these have not been done.
+BERTScore Precision: 0.8376, Recall: 0.8706, F1: 0.8538
+METEOR Score: 0.5660818713450292
+Rouge Score: {'rouge1': np.float64(0.6285714285714287), 'rouge2': np.float64(0.42424242424242425), 'rougeL': np.float64(0.6285714285714287), 'rougeLsum': np.float64(0.6285714285714287)}
+---------------------------------------------
+For the greek sentence:  Θα θέσω επίσης το πρόβλημα στο Σώμα των Κοσμητόρων και είμαι βέβαιη ότι οι Κοσμήτορές μας θα επιδείξουν ζήλο και θα ενεργήσουν έτσι, ώστε να σεβόμαστε τους κανονισμούς που στην πραγματικότητα ψηφίζουμε εμείς.
+The english sentence:  I shall also refer the matter to the College of Quaestors, and I am certain that they will be keen to ensure that we comply with the regulations we ourselves vote on.
+Ai generated Translation:  I will also bring the issue to the Body of Curators, and I am certain that our Curators will demonstrate diligence and act in a manner that ensures we respect the regulations that we ourselves, in fact, vote into effect.
+BERTScore Precision: 0.6879, Recall: 0.7719, F1: 0.7275
+METEOR Score: 0.4063070062833593
+Rouge Score: {'rouge1': np.float64(0.5277777777777778), 'rouge2': np.float64(0.2285714285714286), 'rougeL': np.float64(0.5277777777777778), 'rougeLsum': np.float64(0.5277777777777778)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, η κ. Dνez Gonzαlez και εγώ ο ίδιος είχαμε υποβάλει κάποιες ερωτήσεις σχετικά με συγκεκριμένες απόψεις της Αντιπροέδρου κ. de Palacio, οι οποίες παρουσιάστηκαν σε ισπανική εφημερίδα.
+The english sentence:  Madam President, Mrs Díez González and I had tabled questions on certain opinions of the Vice-President, Mrs de Palacio, which appeared in a Spanish newspaper.
+Ai generated Translation:  Madam President, Ms. Díez González and I myself had submitted some questions regarding specific views of Vice-President Ms. de Palacio, which were presented in a Spanish newspaper.
+BERTScore Precision: 0.8578, Recall: 0.8774, F1: 0.8675
+METEOR Score: 0.651054539462844
+Rouge Score: {'rouge1': np.float64(0.689655172413793), 'rouge2': np.float64(0.4285714285714286), 'rougeL': np.float64(0.689655172413793), 'rougeLsum': np.float64(0.689655172413793)}
+---------------------------------------------
+For the greek sentence:  Οι αρμόδιες υπηρεσίες δεν τις έχουν συμπεριλάβει στην ημερήσια διάταξη, επειδή θεώρησαν ότι έχουν ήδη δοθεί απαντήσεις σε προηγούμενη σύνοδο.
+The english sentence:  The competent services have not included them in the agenda on the grounds that they had been answered in a previous part-session.
+Ai generated Translation:  The competent authorities have not included them in the daily agenda because they deemed that answers had already been provided in a previous session.
+BERTScore Precision: 0.8328, Recall: 0.8231, F1: 0.8279
+METEOR Score: 0.6620374699959475
+Rouge Score: {'rouge1': np.float64(0.723404255319149), 'rouge2': np.float64(0.3555555555555555), 'rougeL': np.float64(0.6808510638297872), 'rougeLsum': np.float64(0.6808510638297872)}
+---------------------------------------------
+For the greek sentence:  Σας παρακαλώ να επανεξεταστεί η απόφαση αυτή, γιατί αυτό δεν αληθεύει.
+The english sentence:  I would ask that they reconsider, since this is not the case.
+Ai generated Translation:  Please have this decision reconsidered, as it is not true.
+BERTScore Precision: 0.6624, Recall: 0.6193, F1: 0.6401
+METEOR Score: 0.21657250470809788
+Rouge Score: {'rouge1': np.float64(0.2727272727272727), 'rouge2': np.float64(0.09999999999999999), 'rougeL': np.float64(0.2727272727272727), 'rougeLsum': np.float64(0.2727272727272727)}
+---------------------------------------------
+For the greek sentence:  Οι ερωτήσεις στις οποίες δόθηκε απάντηση παλαιότερα αναφέρονταν στην παρέμβαση της κ. Palacio σε συγκεκριμένη υπόθεση και όχι στις εν λόγω δηλώσεις, οι οποίες δημοσιεύτηκαν στην εφημερίδα ABC στις 18 του περασμένου Νοεμβρίου.
+The english sentence:  The questions answered previously referred to Mrs de Palacio' s intervention, on another occasion, and not to these comments which appeared in the ABC newspaper on 18 November.
+Ai generated Translation:  The questions that were answered previously pertained to Ms. Palacio's involvement in a specific case and not to the statements in question, which were published in the ABC newspaper on the 18th of last November.
+BERTScore Precision: 0.7659, Recall: 0.8166, F1: 0.7904
+METEOR Score: 0.5320521321871645
+Rouge Score: {'rouge1': np.float64(0.53125), 'rouge2': np.float64(0.2903225806451613), 'rougeL': np.float64(0.53125), 'rougeLsum': np.float64(0.53125)}
+---------------------------------------------
+For the greek sentence:  Αγαπητέ συνάδελφε, θα τα εξακριβώσουμε όλα αυτά.
+The english sentence:  Mr Berenguer Fuster, we shall check all this.
+Ai generated Translation:  Dear colleague, we will look into all of this.
+BERTScore Precision: 0.7082, Recall: 0.5604, F1: 0.6257
+METEOR Score: 0.1851851851851852
+Rouge Score: {'rouge1': np.float64(0.35294117647058826), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.35294117647058826), 'rougeLsum': np.float64(0.35294117647058826)}
+---------------------------------------------
+For the greek sentence:  Σας ομολογώ ότι, επί του παρόντος, τα πράγματα μου φαίνονται κάπως συγκεχυμένα.
+The english sentence:  I admit that, at present, the matter seems to be somewhat confused.
+Ai generated Translation:  I confess to you that, at present, things seem somewhat confused to me.
+BERTScore Precision: 0.7684, Recall: 0.8058, F1: 0.7867
+METEOR Score: 0.5804493801652891
+Rouge Score: {'rouge1': np.float64(0.5599999999999999), 'rouge2': np.float64(0.2608695652173913), 'rougeL': np.float64(0.48000000000000004), 'rougeLsum': np.float64(0.48000000000000004)}
+---------------------------------------------
+For the greek sentence:  Συνεπώς, θα επανεξετάσουμε το θέμα πολύ σοβαρά, ούτως ώστε όλα να διευθετηθούν πλήρως.
+The english sentence:  We shall therefore look into it properly to ensure that everything is as it should be.
+Ai generated Translation:  Therefore, we will re-examine the issue very seriously, so that everything is fully resolved.
+BERTScore Precision: 0.6394, Recall: 0.6536, F1: 0.6465
+METEOR Score: 0.2373417721518987
+Rouge Score: {'rouge1': np.float64(0.3225806451612903), 'rouge2': np.float64(0.1379310344827586), 'rougeL': np.float64(0.2580645161290323), 'rougeLsum': np.float64(0.2580645161290323)}
+---------------------------------------------
+For the greek sentence:  Εν πάση περιπτώσει, αυτό το ζήτημα δεν υπάρχει επί του παρόντος μεταξύ των αιτήσεων κατεπείγοντος για την ερχόμενη Πέμπτη.
+The english sentence:  In any event, this question is not presently included among the requests for topical and urgent debate on Thursday.
+Ai generated Translation:  In any case, this issue is not currently among the urgent requests for the upcoming Thursday.
+BERTScore Precision: 0.8487, Recall: 0.7985, F1: 0.8229
+METEOR Score: 0.4750961240995271
+Rouge Score: {'rouge1': np.float64(0.6285714285714286), 'rouge2': np.float64(0.2424242424242424), 'rougeL': np.float64(0.5714285714285714), 'rougeLsum': np.float64(0.5714285714285714)}
+---------------------------------------------
+For the greek sentence:  Διάταξη τωv εργασιώv
+The english sentence:  Agenda
+Ai generated Translation:  Task Arrangement of Works.
+BERTScore Precision: 0.4085, Recall: 0.5350, F1: 0.4633
+METEOR Score: 0.0
+Rouge Score: {'rouge1': np.float64(0.0), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.0), 'rougeLsum': np.float64(0.0)}
+---------------------------------------------
+For the greek sentence:  Η ημερήσια διάταξη προβλέπει την εξέταση του τελικού σχεδίου της ημερήσιας διάταξης έτσι όπως καταρτίστηκε από τη Διάσκεψη των Προέδρων, την Πέμπτη 13 Ιανουαρίου, συμφώνως προς το άρθρο 110 του Κανονισμού.
+The english sentence:  The next item is the verification of the final version of the draft agenda as drawn up by the Conference of Presidents at its meeting of 13 January pursuant to Rule 110 of the Rules of Procedure.
+Ai generated Translation:  The agenda provides for the examination of the final draft agenda as drawn up by the Conference of Presidents on Thursday, 13 January, in accordance with Rule 110 of the Rules of Procedure.
+BERTScore Precision: 0.8614, Recall: 0.8564, F1: 0.8589
+METEOR Score: 0.6025907217453284
+Rouge Score: {'rouge1': np.float64(0.6857142857142857), 'rouge2': np.float64(0.5294117647058824), 'rougeL': np.float64(0.6857142857142857), 'rougeLsum': np.float64(0.6857142857142857)}
+---------------------------------------------
+For the greek sentence:  Σε ό,τι αφορά τη Δευτέρα και την Τρίτη δεν έχουν υποβληθεί τροποποιήσεις.
+The english sentence:  No amendments have been proposed relating to Monday and Tuesday.
+Ai generated Translation:  No amendments have been submitted concerning Monday and Tuesday.
+BERTScore Precision: 0.9284, Recall: 0.9094, F1: 0.9188
+METEOR Score: 0.6988249845392702
+Rouge Score: {'rouge1': np.float64(0.7368421052631577), 'rouge2': np.float64(0.5882352941176471), 'rougeL': np.float64(0.7368421052631577), 'rougeLsum': np.float64(0.7368421052631577)}
+---------------------------------------------
+For the greek sentence:  Τετάρτη:
+The english sentence:  Relating to Wednesday:
+Ai generated Translation:  Wednesday:
+BERTScore Precision: 0.7386, Recall: 0.5240, F1: 0.6131
+METEOR Score: 0.17857142857142855
+Rouge Score: {'rouge1': np.float64(0.5), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.5), 'rougeLsum': np.float64(0.5)}
+---------------------------------------------
+For the greek sentence:  Η Ομάδα του Κόμματος των Ευρωπαίων Σοσιαλιστών ζητά να συμπεριληφθεί μία δήλωση της Επιτροπής για τους στρατηγικούς στόχους της την επόμενη πενταετία, καθώς και για τη διοικητική μεταρρύθμιση της Επιτροπής.
+The english sentence:  The Group of the Party of European Socialists requests that a Commission statement be included on its strategic objectives for the next five years and on the administrative reform of the Commission.
+Ai generated Translation:  The Group of the Party of European Socialists requests the inclusion of a statement by the Commission on its strategic objectives for the next five-year period, as well as on the administrative reform of the Commission.
+BERTScore Precision: 0.8437, Recall: 0.8964, F1: 0.8693
+METEOR Score: 0.7630214040470452
+Rouge Score: {'rouge1': np.float64(0.7826086956521738), 'rouge2': np.float64(0.626865671641791), 'rougeL': np.float64(0.7536231884057971), 'rougeLsum': np.float64(0.7536231884057971)}
+---------------------------------------------
+For the greek sentence:  Θα ήθελα ο κ. Barσn Crespo, συντάκτης της αιτήσεως, να παρέμβει για να την αιτιολογήσει, εάν βεβαίως το επιθυμεί.
+The english sentence:  I would like Mr Barón Crespo, who made the request, to speak to propose it. That is, if he so wishes, of course.
+Ai generated Translation:  I would like Mr. Baron Crespo, the author of the request, to intervene to justify it, if he indeed wishes to do so.
+BERTScore Precision: 0.7761, Recall: 0.7490, F1: 0.7623
+METEOR Score: 0.41663672296083365
+Rouge Score: {'rouge1': np.float64(0.6382978723404256), 'rouge2': np.float64(0.2666666666666666), 'rougeL': np.float64(0.5531914893617021), 'rougeLsum': np.float64(0.5531914893617021)}
+---------------------------------------------
+For the greek sentence:  Στη συνέχεια θα πράξουμε όπως συνήθως: θα ακούσουμε έναν αγορητή υπέρ και έναν αγορητή κατά.
+The english sentence:  Then we shall follow the usual procedure, hearing one speaker in favour and one against.
+Ai generated Translation:  Next, we will proceed as usual: we will hear one speaker in favor and one speaker against.
+BERTScore Precision: 0.8001, Recall: 0.8079, F1: 0.8040
+METEOR Score: 0.5413417803768681
+Rouge Score: {'rouge1': np.float64(0.5), 'rouge2': np.float64(0.19999999999999998), 'rougeL': np.float64(0.5), 'rougeLsum': np.float64(0.5)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, η παρουσίαση του πολιτικού προγράμματος της Επιτροπής Prodi για ολόκληρη την κοινοβουλευτική περίοδο υπήρξε αρχικά πρόταση της Ομάδας του Κόμματος των Ευρωπαίων Σοσιαλιστών, η οποία κατάφερε να αποσπάσει την ομοφωνία της Διάσκεψης των Προέδρων τον Σεπτέμβριο, καθώς και τη ρητή έγκριση του Προέδρου κ. Prodi, ο οποίος επανέλαβε τη δέσμευσή του στον λόγο που εκφώνησε κατά την τελετή ανάληψης των καθηκόντων του.
+The english sentence:  Madam President, the presentation of the Prodi Commission' s political programme for the whole legislature was initially a proposal by the Group of the Party of European Socialists which was unanimously approved by the Conference of Presidents in September and which was also explicitly accepted by President Prodi, who reiterated his commitment in his inaugural speech.
+Ai generated Translation:  Madam President, the presentation of the Prodi Commission’s political program for the entire parliamentary term was initially a proposal by the Group of the Party of European Socialists, which managed to secure the unanimous agreement of the Conference of Presidents in September, as well as the explicit approval of President Prodi, who reiterated his commitment in the address he delivered during his inauguration ceremony.
+BERTScore Precision: 0.8623, Recall: 0.8979, F1: 0.8797
+METEOR Score: 0.5595720939707938
+Rouge Score: {'rouge1': np.float64(0.6611570247933884), 'rouge2': np.float64(0.5714285714285714), 'rougeL': np.float64(0.6611570247933884), 'rougeLsum': np.float64(0.6611570247933884)}
+---------------------------------------------
+For the greek sentence:  Αυτή η δέσμευση είναι σημαντική, στο βαθμό που η Επιτροπή είναι ένας οργανισμός που κατέχει το μονοπώλιο στη λήψη πρωτοβουλιών σύμφωνα με τις Συνθήκες και, επομένως, διαμορφώνει κατά βάση τη φύση της πολιτικής και νομοθετικής δραστηριότητας αυτού του Κοινοβουλίου για τα επόμενα πέντε έτη.
+The english sentence:  This commitment is important because the Commission is a body with a monopoly of initiative in accordance with the Treaties and, therefore, basically dictates this Parliament' s political and legislative activity for the next five years.
+Ai generated Translation:  This commitment is significant, insofar as the Commission is the institution that holds the monopoly on initiating proposals under the Treaties and, therefore, fundamentally shapes the nature of this Parliament's political and legislative activity for the next five years.
+BERTScore Precision: 0.8194, Recall: 0.8525, F1: 0.8356
+METEOR Score: 0.6593719008264464
+Rouge Score: {'rouge1': np.float64(0.631578947368421), 'rouge2': np.float64(0.48648648648648646), 'rougeL': np.float64(0.6052631578947367), 'rougeLsum': np.float64(0.6052631578947367)}
+---------------------------------------------
+For the greek sentence:  Υπενθυμίζω επίσης, κυρία Πρόεδρε, ότι αυτό το Κοινοβούλιο έδωσε σε δύο περιπτώσεις, στη διάρκεια της προηγούμενης κοινοβουλευτικής περιόδου, ψήφο εμπιστοσύνης στον Πρόεδρο Prodi.
+The english sentence:  I would also like to point out, Madam President, that this Parliament voted to express its confidence in President Prodi during the previous legislature.
+Ai generated Translation:  I also wish to remind you, Madam President, that during the previous parliamentary term, this Parliament twice expressed its confidence in President Prodi.
+BERTScore Precision: 0.8462, Recall: 0.8667, F1: 0.8563
+METEOR Score: 0.6864675478855091
+Rouge Score: {'rouge1': np.float64(0.6808510638297872), 'rouge2': np.float64(0.4), 'rougeL': np.float64(0.5531914893617021), 'rougeLsum': np.float64(0.5531914893617021)}
+---------------------------------------------
+For the greek sentence:  Στην τρέχουσα κοινοβουλευτική περίοδο, του έδωσε εκ νέου ψήφο εμπιστοσύνης τον Ιούλιο και κατόπιν, όταν η νέα Επιτροπή είχε αναλάβει τα καθήκοντά της, έδωσε ξανά ψήφο εμπιστοσύνης σε όλη την Επιτροπή τον Σεπτέμβριο.
+The english sentence:  It did so again during this legislature, in July, and then, in September, it voted once more to approve the whole Commission.
+Ai generated Translation:  In the current parliamentary term, it gave him a renewed vote of confidence in July and subsequently, when the new Commission had assumed its duties, it again granted a vote of confidence to the entire Commission in September.
+BERTScore Precision: 0.6105, Recall: 0.6892, F1: 0.6475
+METEOR Score: 0.19067796610169493
+Rouge Score: {'rouge1': np.float64(0.3666666666666667), 'rouge2': np.float64(0.10344827586206896), 'rougeL': np.float64(0.26666666666666666), 'rougeLsum': np.float64(0.26666666666666666)}
+---------------------------------------------
+For the greek sentence:  Επομένως, υπήρχε ήδη αρκετός χρόνος ώστε η Επιτροπή να εκπονήσει το πρόγραμμά της και εμείς να μπορέσουμε να το μάθουμε και να μπορέσουμε να το εξηγήσουμε στους πολίτες.
+The english sentence:  There has therefore been enough time for the Commission to prepare its programme and for us to become familiar with it and explain it to our citizens.
+Ai generated Translation:  Therefore, there had already been sufficient time for the Committee to prepare its program and for us to learn about it and to be able to explain it to the citizens.
+BERTScore Precision: 0.8338, Recall: 0.8674, F1: 0.8503
+METEOR Score: 0.5819703523474813
+Rouge Score: {'rouge1': np.float64(0.6551724137931035), 'rouge2': np.float64(0.3571428571428571), 'rougeL': np.float64(0.6206896551724138), 'rougeLsum': np.float64(0.6206896551724138)}
+---------------------------------------------
+For the greek sentence:  Σε αυτό το πλαίσιο, υπενθυμίζω το ψήφισμα της 15ης Σεπτεμβρίου, στο οποίο προτεινόταν η υποβολή της πρότασης στο συντομότερο δυνατό χρονικό διάστημα.
+The english sentence:  To this end, I would like to remind you of the resolution of 15 September, which recommended that the proposal be presented as soon as possible.
+Ai generated Translation:  In this context, I recall the resolution of 15 September, which proposed that the submission of the proposal be made within the shortest possible timeframe.
+BERTScore Precision: 0.7471, Recall: 0.7428, F1: 0.7450
+METEOR Score: 0.3876996184688492
+Rouge Score: {'rouge1': np.float64(0.5490196078431373), 'rouge2': np.float64(0.3673469387755102), 'rougeL': np.float64(0.5098039215686274), 'rougeLsum': np.float64(0.5098039215686274)}
+---------------------------------------------
+For the greek sentence:  Τα γεγονότα που συνέβησαν την περασμένη εβδομάδα - τα οποία προκλήθηκαν εκτός του πλαισίου της Διάσκεψης των Προέδρων, ενώ η τελευταία χρησιμοποιήθηκε μόνο για την επιβεβαίωση και την επικύρωση αποφάσεων που είχαν ληφθεί εκτός αυτής - θέτουν ένα δίλημμα: είτε η Επιτροπή δεν είναι σε θέση να παρουσιάσει το πρόγραμμα αυτό· (στην περίπτωση αυτή, θα ήταν καλό να το δηλώσει.
+The english sentence:  The events of last week - which originated outside the Conference of Presidents, that Conference being used simply to corroborate and ratify decisions taken elsewhere - present us with a dilemma. Either the Commission is not ready to present this programme, in which case it should clarify it.
+Ai generated Translation:  The events that occurred last week – which were triggered outside the framework of the Conference of Presidents, while the latter was used solely to confirm and validate decisions that had been made outside of it – pose a dilemma: either the Commission is not in a position to present this program; (in this case, it would be good to state it...
+BERTScore Precision: 0.6997, Recall: 0.7496, F1: 0.7238
+METEOR Score: 0.42067232473390553
+Rouge Score: {'rouge1': np.float64(0.5660377358490566), 'rouge2': np.float64(0.3076923076923077), 'rougeL': np.float64(0.5283018867924527), 'rougeLsum': np.float64(0.5283018867924527)}
+---------------------------------------------
+For the greek sentence:  Σύμφωνα με τα λεγόμενα του Προέδρου της, είναι σε θέση να το παρουσιάσει.
+The english sentence:  According to its President, it is in a position to do so.
+Ai generated Translation:  According to the statements of its President, it is in a position to present it.
+BERTScore Precision: 0.8268, Recall: 0.8626, F1: 0.8443
+METEOR Score: 0.8097560975609756
+Rouge Score: {'rouge1': np.float64(0.7407407407407408), 'rouge2': np.float64(0.64), 'rougeL': np.float64(0.7407407407407408), 'rougeLsum': np.float64(0.7407407407407408)}
+---------------------------------------------
+For the greek sentence:  Δεδομένου ότι η Επιτροπή εκπροσωπείται από την Αντιπρόεδρο κ. de Palacio, πιστεύω ότι, πριν από την ψηφοφορία θα ήταν πρέπον να γνωρίζουμε την κατάσταση της Επιτροπής ως προς τη δυνατότητά της να παρουσιάσει το πρόγραμμα, όπως είχε συμφωνηθεί)· είτε το Κοινοβούλιο δεν είναι σε θέση να εξετάσει το πρόγραμμα αυτό, όπως φαίνεται ότι ισχυρίζονται μερικοί.
+The english sentence:  Given that the Commission is represented by Vice-President de Palacio, I believe that, before voting, it would help if the Commission could let us know how ready it is to present this programme, as agreed. Alternatively, Parliament is not ready to examine this programme, as some appear to be suggesting.
+Ai generated Translation:  Given that the Commission is represented by Vice-President Mrs. de Palacio, I believe that, before the vote, it would be appropriate to know the Commission's position regarding its ability to present the program, as had been agreed; or that Parliament is not in a position to consider this program, as some appear to claim.
+BERTScore Precision: 0.8046, Recall: 0.8332, F1: 0.8186
+METEOR Score: 0.5818830440042562
+Rouge Score: {'rouge1': np.float64(0.6355140186915887), 'rouge2': np.float64(0.4000000000000001), 'rougeL': np.float64(0.5981308411214953), 'rougeLsum': np.float64(0.5981308411214953)}
+---------------------------------------------
+For the greek sentence:  Κατά τη γνώμη μου, αυτό το δεύτερο ενδεχόμενο θα σήμαινε ότι παραιτούμεθα από τις αρμοδιότητές μας ως Κοινοβούλιο και ότι, επιπλέον, εισαγάγουμε μια πρωτότυπη άποψη, μια άγνωστη μέθοδο που συνίσταται στη γραπτή πληροφόρηση των πολιτικών ομάδων σχετικά με τις προγραμματικές δηλώσεις της Επιτροπής μία εβδομάδα πριν - και όχι την προηγούμενη μέρα, όπως είχε συμφωνηθεί - λαμβάνοντας υπόψη ότι το νομοθετικό πρόγραμμα θα συζητηθεί τον Φεβρουάριο, κατά τέτοιον τρόπο ώστε θα μπορούσαμε να παρακάμψουμε τη συζήτηση, επειδή την επόμενη μέρα θα είχε γνωστοποιηθεί σε όλους τους πολίτες από τον Τύπο και το Internet και το Κοινοβούλιο δεν θα είχε πια λόγο να ασχοληθεί με το ζήτημα.
+The english sentence:  In my opinion, this second hypothesis would imply the failure of Parliament in its duty as a Parliament, as well as introducing an original thesis, an unknown method which consists of making political groups aware, in writing, of a speech concerning the Commission' s programme a week earlier - and not a day earlier, as had been agreed - bearing in mind that the legislative programme will be discussed in February, so we could forego the debate, since on the next day our citizens will hear about it in the press and on the Internet and Parliament will no longer have to worry about it.
+Ai generated Translation:  In my opinion, this second possibility would mean that we are relinquishing our responsibilities as a Parliament and that, moreover, we are introducing an original viewpoint, an unknown method consisting of providing written information to political groups regarding the Commission's policy statements one week beforehand—and not the day before, as had been agreed—taking into account that the legislative program will be discussed in February, in such a way that we could bypass the debate, because the next day it would have been communicated to all citizens through the Press and the Internet, and the Parliament would no longer have any reason to address the matter.
+BERTScore Precision: 0.7749, Recall: 0.7966, F1: 0.7856
+METEOR Score: 0.47759154650413754
+Rouge Score: {'rouge1': np.float64(0.5781990521327014), 'rouge2': np.float64(0.3157894736842105), 'rougeL': np.float64(0.5308056872037915), 'rougeLsum': np.float64(0.5308056872037915)}
+---------------------------------------------
+For the greek sentence:  Καθώς η Ομάδα μου πιστεύει ότι σκοπός της σύστασης ενός Κοινοβουλίου είναι να ακούει, να διαβουλεύεται και να στοχάζεται, νομίζουμε ότι δεν υπάρχει κανένας λόγος που να δικαιολογεί αυτή την αναβολή και πιστεύουμε ότι αν η Επιτροπή είναι σε θέση να το κάνει, η στιγμή είναι κατάλληλη, για να μπορέσουμε να επαναφέρουμε την αρχική συμφωνία μεταξύ του Κοινοβουλίου και της Επιτροπής και να συνεχίσουμε το έργο μας με υπευθυνότητα απέναντι στους συμπολίτες μας.
+The english sentence:  My Group believes that since a parliament is meant to listen, debate and reflect, there can be no justification whatsoever for this delay and we believe that, if the Commission is ready to do so, we still have time to re-establish the original agreement between Parliament and the Commission and proceed in a manner which fulfils our duty to our fellow citizens.
+Ai generated Translation:  As my Group believes that the purpose of establishing a Parliament is to listen, consult, and deliberate, we see no justification for this delay and maintain that if the Commission is in a position to act, the time is right to restore the original agreement between Parliament and the Commission and continue our work with responsibility towards our fellow citizens.
+BERTScore Precision: 0.8108, Recall: 0.7759, F1: 0.7930
+METEOR Score: 0.5934061488673139
+Rouge Score: {'rouge1': np.float64(0.6504065040650407), 'rouge2': np.float64(0.4132231404958677), 'rougeL': np.float64(0.6016260162601625), 'rougeLsum': np.float64(0.6016260162601625)}
+---------------------------------------------
+For the greek sentence:  Επομένως, η πρόταση που υποβάλει η Ομάδα του Κόμματος των Ευρωπαίων Σοσιαλιστών και που εσείς αναφέρατε, είναι να παρουσιαστεί την Τετάρτη το πρόγραμμα της κοινοβουλευτικής περιόδου της Επιτροπής του κ. Prodi, συμπεριλαμβανομένου στο πρόγραμμα αυτό του σχεδίου της διοικητικής μεταρρύθμισης διότι, διαφορετικά, είναι πιθανό να έρθουμε αντιμέτωποι με μια παράδοξη κατάσταση: με τη δικαιολογία ότι δεν υπάρχει έγγραφο, από τη μια πλευρά ο Πρόεδρος της Επιτροπής στερείται του δικαιώματος να μιλήσει ενώπιον του Κοινοβουλίου και από την άλλη απορρίπτεται η διεξαγωγή μιας συζήτησης σχετικά με τη μεταρρύθμιση, χωρίς να γνωρίζει από πριν το Κοινοβούλιο αυτό τα κείμενα στα οποία θα βασίζεται αυτή η συζήτηση.
+The english sentence:  Therefore, the proposal of the Group of the Party of European Socialists, and which you have mentioned, is that the Prodi Commission present its legislative programme on Wednesday, including its proposed administrative reform, because, otherwise, we could find ourselves in a paradoxical situation: on the pretext that there is no text, on the one hand, the President of the Commission would be denied his right to speak in this Parliament and, on the other hand, there would be a debate on a reform when Parliament had no prior knowledge of the texts on which it is based.
+Ai generated Translation:  Therefore, the proposal submitted by the Group of the Party of European Socialists, which you mentioned, is for the program of the parliamentary term of Mr. Prodi's Commission to be presented on Wednesday, including in this program the plan for administrative reform because, otherwise, we are likely to face a paradoxical situation: on the pretext that there is no document, on the one hand, the President of the Commission is deprived of the right to speak before Parliament, and on the other hand, the holding of a discussion on the reform is rejected, without Parliament knowing in advance the texts on which this discussion will be based.
+BERTScore Precision: 0.8104, Recall: 0.8414, F1: 0.8256
+METEOR Score: 0.550329029571012
+Rouge Score: {'rouge1': np.float64(0.6926829268292682), 'rouge2': np.float64(0.4630541871921182), 'rougeL': np.float64(0.6146341463414634), 'rougeLsum': np.float64(0.6146341463414634)}
+---------------------------------------------
+For the greek sentence:  Επομένως, σας παρακαλώ, κυρία Πρόεδρε, να ζητήσετε από την Επιτροπή να εκφράσει την άποψή της αυτή τη στιγμή και στη συνέχεια να προχωρήσουμε στην ψηφοφορία.
+The english sentence:  Therefore, Madam President, I would ask you to request that the Commission express its opinion on this issue and that we then proceed to the vote.
+Ai generated Translation:  Therefore, Madam President, I kindly ask you to request the Commission to express its opinion at this moment and then proceed to the vote.
+BERTScore Precision: 0.8854, Recall: 0.8609, F1: 0.8730
+METEOR Score: 0.7398740310077522
+Rouge Score: {'rouge1': np.float64(0.8), 'rouge2': np.float64(0.5416666666666667), 'rougeL': np.float64(0.8), 'rougeLsum': np.float64(0.8)}
+---------------------------------------------
+For the greek sentence:  (Χειροκροτήματα από την Ομάδα του Κόμματος των Ευρωπαίων Σοσιαλιστών)
+The english sentence:  (Applause from the PSE Group)
+Ai generated Translation:  Applause from the Group of the Party of European Socialists.
+BERTScore Precision: 0.6173, Recall: 0.6701, F1: 0.6426
+METEOR Score: 0.18181818181818182
+Rouge Score: {'rouge1': np.float64(0.5333333333333333), 'rouge2': np.float64(0.30769230769230765), 'rougeL': np.float64(0.5333333333333333), 'rougeLsum': np.float64(0.5333333333333333)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, θέλω να καταστήσω απολύτως σαφές ότι, καταρχάς, η Επιτροπή σέβεται στο μέγιστο βαθμό τις αποφάσεις του Κοινοβουλίου και, μεταξύ αυτών, την απόφαση να καθορίζει την ημερήσια διάταξή του.
+The english sentence:  Madam President, I would like to make it very clear that, above all, the Commission has absolute respect for the decisions of this Parliament and, amongst those, the decision establishing its agenda.
+Ai generated Translation:  Madam President, I wish to make absolutely clear that, first and foremost, the Commission respects to the highest degree the decisions of Parliament and, among them, the decision to determine its agenda.
+BERTScore Precision: 0.8146, Recall: 0.8333, F1: 0.8238
+METEOR Score: 0.5784084467120181
+Rouge Score: {'rouge1': np.float64(0.5625), 'rouge2': np.float64(0.3225806451612903), 'rougeL': np.float64(0.5625), 'rougeLsum': np.float64(0.5625)}
+---------------------------------------------
+For the greek sentence:  Επομένως, εμείς σεβόμαστε την απόφαση που μπορεί να λάβει το Κοινοβούλιο ως προς αυτό.
+The english sentence:  We therefore respect whatever Parliament may decide.
+Ai generated Translation:  Therefore, we respect the decision that the Parliament may take on this matter.
+BERTScore Precision: 0.6514, Recall: 0.8080, F1: 0.7213
+METEOR Score: 0.41529605263157904
+Rouge Score: {'rouge1': np.float64(0.5), 'rouge2': np.float64(0.1111111111111111), 'rougeL': np.float64(0.4), 'rougeLsum': np.float64(0.4)}
+---------------------------------------------
+For the greek sentence:  Όμως, θέλω επίσης να καταστήσω απολύτως σαφές ότι, ο Πρόεδρος Prodi δεσμεύτηκε έναντι του Κοινοβουλίου να ενσωματώσει μια νέα συζήτηση, όπως υπενθύμισε ο κ. Barσn, η οποία θα προστεθεί στην ετήσια συζήτηση σχετικά με το νομοθετικό πρόγραμμα της Επιτροπής, σχετικά με τις σημαντικές γραμμές δράσης για την επόμενη πενταετία, δηλαδή, για την τρέχουσα κοινοβουλευτική περίοδο.
+The english sentence:  But I would also like to make it very clear that President Prodi made a commitment to this Parliament to introduce a new debate, as Mr Barón Crespo has reminded us, which would be in addition to the annual debate on the Commission' s legislative programme, on the broad areas of action for the next five years, that is to say, for this legislature.
+Ai generated Translation:  However, I also want to make absolutely clear that President Prodi committed to Parliament to incorporate a new discussion, as Mr. Barón reminded, which will be added to the annual discussion on the Commission's legislative program, regarding the key lines of action for the next five years, that is, for the current parliamentary term.
+BERTScore Precision: 0.8401, Recall: 0.7993, F1: 0.8192
+METEOR Score: 0.44168448331713633
+Rouge Score: {'rouge1': np.float64(0.6446280991735538), 'rouge2': np.float64(0.38655462184873945), 'rougeL': np.float64(0.6446280991735538), 'rougeLsum': np.float64(0.6446280991735538)}
+---------------------------------------------
+For the greek sentence:  Θέλω να αναφέρω, κυρία Πρόεδρε, ότι αυτή η συζήτηση δεν ταυτιζόταν, στη συμφωνία η οποία επιτεύχθηκε το Σεπτέμβριο, με την ετήσια παρουσίαση του νομοθετικού προγράμματος της Επιτροπής.
+The english sentence:  Madam President, I would like to say that the agreement reached in September distinguished this debate from the annual presentation of the Commission' s legislative programme.
+Ai generated Translation:  I would like to note, Madam President, that this discussion was not aligned, under the agreement reached in September, with the annual presentation of the Commission’s legislative program.
+BERTScore Precision: 0.7987, Recall: 0.8688, F1: 0.8323
+METEOR Score: 0.6668198096315145
+Rouge Score: {'rouge1': np.float64(0.7636363636363636), 'rouge2': np.float64(0.5660377358490566), 'rougeL': np.float64(0.6545454545454545), 'rougeLsum': np.float64(0.6545454545454545)}
+---------------------------------------------
+For the greek sentence:  Και θέλω να πω, κυρία Πρόεδρε, ότι, εκ μέρους της Επιτροπής, είμαστε έτοιμοι και διατεθειμένοι να πραγματοποιήσουμε τη συζήτηση αυτή την κατάλληλη στιγμή, ότι ήμασταν έτοιμοι να αναπτύξουμε τη συζήτηση αυτήν την εβδομάδα, όπως είχε συμφωνηθεί αρχικά, ξεκινώντας από τη βάση ότι θα παρουσιαζόταν την προηγούμενη μέρα σε έναν λόγο προς τις κοινοβουλευτικές ομάδες.
+The english sentence:  I would also like to say that the Commission is prepared and ready to hold this debate whenever it is convenient and that we were ready to do so this week as we had agreed originally, on the basis that it would be presented the day before in a speech to parliamentary groups.
+Ai generated Translation:  And I would like to say, Madam President, that, on behalf of the Commission, we are ready and willing to hold this discussion at the appropriate time, that we were prepared to initiate this discussion this week, as initially agreed, starting from the premise that it would be presented the previous day in a speech to the parliamentary groups.
+BERTScore Precision: 0.7633, Recall: 0.8154, F1: 0.7885
+METEOR Score: 0.5361465811082993
+Rouge Score: {'rouge1': np.float64(0.6964285714285713), 'rouge2': np.float64(0.34545454545454546), 'rougeL': np.float64(0.6071428571428571), 'rougeLsum': np.float64(0.6071428571428571)}
+---------------------------------------------
+For the greek sentence:  Επομένως, κυρία Πρόεδρε, θέλω να επαναλάβω ότι, από τη δική μας πλευρά, έχουμε συζητήσει το πρόγραμμα δράσης για τα επόμενα πέντε χρόνια και είμαστε έτοιμοι ώστε, όταν το αποφασίσει το Κοινοβούλιο, - ακόμα και αυτήν την εβδομάδα, αν αυτή είναι η απόφαση - να παρουσιάσουμε το πρόγραμμα για τα πέντε επόμενα έτη και, τον επόμενο μήνα, το πρόγραμμα για το έτος 2000, αυτό δηλαδή ακριβώς που είχε συμφωνηθεί.
+The english sentence:  Therefore, Madam President, I would like to repeat that the Commission has debated the action plan for the next five years and, when Parliament decides, - this week if that is the decision - we are prepared to come and explain the programme for the next five years and, next month, the programme for 2000, which is what we fully agreed upon.
+Ai generated Translation:  Therefore, Madam President, I wish to reiterate that, on our part, we have discussed the action programme for the next five years and are ready, once Parliament decides – even this week, if that is the decision – to present the programme for the next five years and, next month, the programme for the year 2000, that is, precisely what had been agreed.
+BERTScore Precision: 0.8013, Recall: 0.8228, F1: 0.8119
+METEOR Score: 0.5550813726589015
+Rouge Score: {'rouge1': np.float64(0.7272727272727273), 'rouge2': np.float64(0.47058823529411764), 'rougeL': np.float64(0.6776859504132232), 'rougeLsum': np.float64(0.6776859504132232)}
+---------------------------------------------
+For the greek sentence:  Προτείνω να ψηφίσουμε επί της αιτήσεως της Ομάδας του Κόμματος των Ευρωπαίων Σοσιαλιστών για την επανεγγραφή της δήλωσης της Επιτροπής σχετικά με τους στρατηγικούς στόχους της.
+The english sentence:  I propose that we vote on the request of the Group of the Party of European Socialists that the Commission statement on its strategic objectives should be reinstated.
+Ai generated Translation:  I propose that we vote on the request of the Group of the Party of European Socialists for the redrafting of the Commission's statement regarding its strategic objectives.
+BERTScore Precision: 0.8677, Recall: 0.9013, F1: 0.8842
+METEOR Score: 0.5841431810819566
+Rouge Score: {'rouge1': np.float64(0.8070175438596492), 'rouge2': np.float64(0.6909090909090909), 'rougeL': np.float64(0.8070175438596492), 'rougeLsum': np.float64(0.8070175438596492)}
+---------------------------------------------
+For the greek sentence:  (Το Σώμα απορρίπτει την αίτηση) Πρόεδρος.
+The english sentence:  (Parliament rejected the request) President.
+Ai generated Translation:  The Committee rejects the application.
+BERTScore Precision: 0.6649, Recall: 0.5750, F1: 0.6167
+METEOR Score: 0.37500000000000006
+Rouge Score: {'rouge1': np.float64(0.20000000000000004), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.20000000000000004), 'rougeLsum': np.float64(0.20000000000000004)}
+---------------------------------------------
+For the greek sentence:  Πάντοτε σε ό,τι αφορά την ημέρα της Τετάρτης, έχω μία άλλη πρόταση που αφορά την προφορική ερώτηση σχετικά με τον φόρο επί του κεφαλαίου.
+The english sentence:  Still on the subject of Wednesday' s sitting, I have another proposal regarding the oral question on capital tax.
+Ai generated Translation:  Whenever it comes to Wednesday, I have another proposal concerning the oral question on the capital tax.
+BERTScore Precision: 0.8189, Recall: 0.7917, F1: 0.8051
+METEOR Score: 0.5576314401266047
+Rouge Score: {'rouge1': np.float64(0.6666666666666667), 'rouge2': np.float64(0.47058823529411764), 'rougeL': np.float64(0.6111111111111113), 'rougeLsum': np.float64(0.6111111111111113)}
+---------------------------------------------
+For the greek sentence:  Η Ομάδα του Ευρωπαϊκού Λαϊκού Κόμματος (Χριστιανοδημοκράτες) και των Ευρωπαίων Δημοκρατών ζητά να αποσυρθεί αυτό το σημείο από την ημερήσια διάταξη.
+The english sentence:  The PPE-DE Group is requesting that this item be taken off the agenda.
+Ai generated Translation:  The Group of the European People's Party (Christian Democrats) and the European Democrats requests that this item be withdrawn from the agenda.
+BERTScore Precision: 0.5979, Recall: 0.7442, F1: 0.6631
+METEOR Score: 0.6190603073097078
+Rouge Score: {'rouge1': np.float64(0.4324324324324324), 'rouge2': np.float64(0.2285714285714286), 'rougeL': np.float64(0.4324324324324324), 'rougeLsum': np.float64(0.4324324324324324)}
+---------------------------------------------
+For the greek sentence:  Υπάρχει κάποιος συνάδελφος για να λάβει τον λόγο εξ ονόματος της συγκεκριμένης Ομάδας και να αιτιολογήσει αυτή την αίτηση;
+The english sentence:  Is there a member who wishes to speak on behalf of this Group to propose this?
+Ai generated Translation:  Is there a colleague to take the floor on behalf of the specific Group and justify this request?
+BERTScore Precision: 0.7202, Recall: 0.7649, F1: 0.7419
+METEOR Score: 0.5079256210943455
+Rouge Score: {'rouge1': np.float64(0.5294117647058824), 'rouge2': np.float64(0.25), 'rougeL': np.float64(0.5294117647058824), 'rougeLsum': np.float64(0.5294117647058824)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, επειδή ακούω κάποια γέλια από την πλευρά των Σοσιαλιστών, είναι καλό να γνωρίζετε πως μου αναφέρθηκε το γεγονός ότι και στην Ομάδα του Κόμματος των Ευρωπαίων Σοσιαλιστών υπάρχουν ευρείς κύκλοι που θα επιθυμούσαν πολύ την απόσυρση από την ημερήσια διάταξη του εν λόγω θέματος, επειδή κατά την ψηφοφορία στη Διάσκεψη των Προέδρων δεν είχε κατατεθεί η ψήφος της ομάδας εργασίας των αρμόδιων συναδέλφων της Ομάδας του Κόμματος των Ευρωπαίων Σοσιαλιστών.
+The english sentence:  Madam President, I can hear a ripple of laughter from the Socialists. I was told that large sections of the Socialist Group were also keen to have this item taken off the agenda, because at the vote in the Conference of Presidents no vote was received from the working group of Members of the Socialist Group responsible for this matter.
+Ai generated Translation:  Madam President, since I hear some laughter from the Socialist side, it is good to know that I have been informed that within the Group of the Party of European Socialists as well, there are broad circles who would very much wish to withdraw the item in question from the agenda, because during the vote in the Conference of Presidents, the vote of the working group of the competent colleagues from the Group of the Party of European Socialists had not been submitted.
+BERTScore Precision: 0.6931, Recall: 0.7611, F1: 0.7256
+METEOR Score: 0.40180000398646015
+Rouge Score: {'rouge1': np.float64(0.5174825174825175), 'rouge2': np.float64(0.2553191489361702), 'rougeL': np.float64(0.41958041958041953), 'rougeLsum': np.float64(0.41958041958041953)}
+---------------------------------------------
+For the greek sentence:  Δεν γνωρίζω εάν είναι σωστή αυτή η πληροφορία, εμείς όμως ως Ομάδα του Ευρωπαϊκού Λαϊκού Κόμματος και των Ευρωπαίων Δημοκρατών θα είμαστε σίγουρα ευγνώμονες εάν αποσυρόταν το θέμα αυτό, επειδή το Κοινοβούλιο έχει ήδη ασχοληθεί, ως γνωστόν, πολλές φορές με το εν λόγω ζήτημα.
+The english sentence:  I do not know whether this information is correct, but the PPE-DE Group would, in any case, be grateful if this item were removed because Parliament has addressed this issue several times already.
+Ai generated Translation:  I do not know if this information is correct, but we, as the Group of the European People's Party and the European Democrats, would certainly be grateful if this issue were withdrawn, as the Parliament has already dealt, as is known, many times with the matter in question.
+BERTScore Precision: 0.7012, Recall: 0.7898, F1: 0.7428
+METEOR Score: 0.5364947911531762
+Rouge Score: {'rouge1': np.float64(0.5542168674698795), 'rouge2': np.float64(0.2962962962962963), 'rougeL': np.float64(0.48192771084337355), 'rougeLsum': np.float64(0.48192771084337355)}
+---------------------------------------------
+For the greek sentence:  Υπάρχουν μάλιστα και αποφάσεις κατά της επιβολής ενός παρόμοιου φόρου.
+The english sentence:  Decisions have also been adopted against a tax of this kind.
+Ai generated Translation:  There are even rulings against the imposition of a similar tax.
+BERTScore Precision: 0.7268, Recall: 0.7184, F1: 0.7226
+METEOR Score: 0.13636363636363635
+Rouge Score: {'rouge1': np.float64(0.36363636363636365), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.2727272727272727), 'rougeLsum': np.float64(0.2727272727272727)}
+---------------------------------------------
+For the greek sentence:  Για τον λόγο αυτό, η Ομάδα μου ζητεί να αποσυρθεί το θέμα αυτό από την ημερήσια διάταξη.
+The english sentence:  That is why my Group moves that this item be taken off the agenda.
+Ai generated Translation:  For this reason, my Team requests that this issue be withdrawn from the agenda.
+BERTScore Precision: 0.7273, Recall: 0.7510, F1: 0.7389
+METEOR Score: 0.3650793650793651
+Rouge Score: {'rouge1': np.float64(0.42857142857142855), 'rouge2': np.float64(0.15384615384615385), 'rougeL': np.float64(0.42857142857142855), 'rougeLsum': np.float64(0.42857142857142855)}
+---------------------------------------------
+For the greek sentence:  Σας ευχαριστώ, κύριε Poettering.
+The english sentence:  Thank you, Mr Poettering.
+Ai generated Translation:  Thank you, Mr. Poettering.
+BERTScore Precision: 0.8991, Recall: 0.9585, F1: 0.9278
+METEOR Score: 0.6388888888888888
+Rouge Score: {'rouge1': np.float64(1.0), 'rouge2': np.float64(1.0), 'rougeL': np.float64(1.0), 'rougeLsum': np.float64(1.0)}
+---------------------------------------------
+For the greek sentence:  Θα ακούσουμε τώρα τον κ. Wurtz, ο οποίος αντιτίθεται στη συγκεκριμένη αίτηση.
+The english sentence:  We shall now hear Mr Wurtz speaking against this request.
+Ai generated Translation:  We will now hear Mr. Wurtz, who opposes this specific request.
+BERTScore Precision: 0.7928, Recall: 0.8628, F1: 0.8263
+METEOR Score: 0.36831683168316837
+Rouge Score: {'rouge1': np.float64(0.6666666666666666), 'rouge2': np.float64(0.3157894736842105), 'rougeL': np.float64(0.6666666666666666), 'rougeLsum': np.float64(0.6666666666666666)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, θα ήθελα καταρχάς να υπογραμμίσω την έλλειψη λογικής του κ. Poettering.
+The english sentence:  Madam President, I would firstly like to point out Mr Poettering' s lack of logic.
+Ai generated Translation:  Madam President, I would first of all like to emphasize the lack of logic on the part of Mr. Poettering.
+BERTScore Precision: 0.7492, Recall: 0.8592, F1: 0.8004
+METEOR Score: 0.4838709677419355
+Rouge Score: {'rouge1': np.float64(0.6285714285714286), 'rouge2': np.float64(0.4242424242424242), 'rougeL': np.float64(0.5142857142857143), 'rougeLsum': np.float64(0.5142857142857143)}
+---------------------------------------------
+For the greek sentence:  Αυτή τη στιγμή, μόλις έκανε μάθημα ηθικής στην Ομάδα του Κόμματος των Ευρωπαίων Σοσιαλιστών, διότι αναίρεσε μία απόφαση που έλαβε με ιδιαίτερα ξεκάθαρο τρόπο η Διάσκεψη των Προέδρων. Ωστόσο, και αυτός πράττει το ίδιο πράγμα.
+The english sentence:  He has just been preaching to the Group of the Party of European Socialists because they went back on a decision taken in a perfectly clear manner at the Conference of Presidents, and now he is doing just the same.
+Ai generated Translation:  At this very moment, he just gave a lesson in ethics to the Group of the Party of European Socialists, because he overturned a decision that was made in a particularly clear manner by the Conference of Presidents. However, he himself is doing the same thing.
+BERTScore Precision: 0.7302, Recall: 0.7864, F1: 0.7573
+METEOR Score: 0.5817142857142857
+Rouge Score: {'rouge1': np.float64(0.6511627906976744), 'rouge2': np.float64(0.40476190476190477), 'rougeL': np.float64(0.627906976744186), 'rougeLsum': np.float64(0.627906976744186)}
+---------------------------------------------
+For the greek sentence:  Συζητήσαμε και είμασταν ομόφωνοι εκτός από την Ομάδα του Ευρωπαϊκού Λαϊκού Κόμματος και την Ομάδα των Φιλελευθέρων, και είχα μάλιστα επισημάνει, θα το θυμάστε αγαπητοί συνάδελφοι, πρόεδροι των Ομάδων, ότι το ζήτημα δεν είναι εάν είστε υπέρ ή κατά του φόρου Tobin, αλλά εάν τολμάτε να ακούσετε τι σκέπτονται επί του προκειμένου η Επιτροπή και το Συμβούλιο.
+The english sentence:  We discussed that matter and we were unanimous, with the exception of the PPE and ELDR Groups. As my fellow chairmen will recall, I even mentioned that it was not a matter of knowing whether one was for or against the Tobin tax, but of whether one dared to hear what the Commission and the Council thought of it.
+Ai generated Translation:  We discussed and were unanimous except for the Group of the European People's Party and the Group of the Liberals, and I had in fact pointed out, you will recall dear colleagues, group chairs, that the issue is not whether you are for or against the Tobin tax, but whether you dare to listen to what the Commission and the Council think on the matter.
+BERTScore Precision: 0.7083, Recall: 0.7196, F1: 0.7139
+METEOR Score: 0.3756570496015101
+Rouge Score: {'rouge1': np.float64(0.5120000000000001), 'rouge2': np.float64(0.24390243902439024), 'rougeL': np.float64(0.46399999999999997), 'rougeLsum': np.float64(0.46399999999999997)}
+---------------------------------------------
+For the greek sentence:  Δεν ζητάμε πολλά.
+The english sentence:  It is not a lot to ask.
+Ai generated Translation:  We aren't asking for much.
+BERTScore Precision: 0.5370, Recall: 0.5213, F1: 0.5290
+METEOR Score: 0.0
+Rouge Score: {'rouge1': np.float64(0.0), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.0), 'rougeLsum': np.float64(0.0)}
+---------------------------------------------
+For the greek sentence:  Συνεπώς, επαναλαμβάνω την πρόταση να διατηρηθεί η εν λόγω προφορική ερώτηση προς την Επιτροπή και το Συμβούλιο, για να μάθουμε άπαξ δια παντός τη θέση των εν λόγω δύο αρχών σε σχέση με την προκειμένη πρόταση, η οποία είναι σχετικά μετριοπαθής, αλλά που θα έστελνε, ωστόσο, ένα σημαντικό μήνυμα στην κοινή γνώμη, ιδιαίτερα μετά την ταραχή που προκάλεσε η αποτυχία της Διάσκεψης του Seattle.
+The english sentence:  I therefore repeat the proposal that this oral question to the Commission and the Council should be retained so that we can find out, once and for all, the positions of these two bodies regarding the proposal which is relatively modest but which would give a clear message to public opinion, particularly after the tide of feeling generated by the failure of the Seattle Conference.
+Ai generated Translation:  Therefore, I reiterate the proposal to retain the aforementioned oral question to the Commission and the Council, so that we can once and for all learn the position of these two authorities regarding the proposal at hand, which is relatively moderate, but would nonetheless send a significant message to public opinion, especially after the turmoil caused by the failure of the Seattle Conference.
+BERTScore Precision: 0.8567, Recall: 0.8636, F1: 0.8601
+METEOR Score: 0.6683089468068891
+Rouge Score: {'rouge1': np.float64(0.7187500000000001), 'rouge2': np.float64(0.47619047619047616), 'rougeL': np.float64(0.7031250000000001), 'rougeLsum': np.float64(0.7031250000000001)}
+---------------------------------------------
+For the greek sentence:  Θα ψηφίσουμε επί της αιτήσεως της Ομάδας του Ευρωπαϊκού Λαϊκού Κόμματος (Χριστιανοδημοκράτες) και των Ευρωπαίων Δημοκρατών για την απόσυρση από την ημερήσια διάταξη της προφορικής ερώτησης αναφορικά με τον φόρο επί του κεφαλαίου.
+The english sentence:  We shall proceed to vote on the PPE-DE Group' s request that the oral question regarding the capital tax be withdrawn from the agenda.
+Ai generated Translation:  We will vote on the request by the Group of the European People's Party (Christian Democrats) and the European Democrats to withdraw from the agenda the oral question concerning the capital levy tax.
+BERTScore Precision: 0.6783, Recall: 0.7634, F1: 0.7184
+METEOR Score: 0.36394097098452977
+Rouge Score: {'rouge1': np.float64(0.576271186440678), 'rouge2': np.float64(0.2456140350877193), 'rougeL': np.float64(0.4067796610169491), 'rougeLsum': np.float64(0.4067796610169491)}
+---------------------------------------------
+For the greek sentence:  (Το Σώμα απορρίπτει την αίτηση με 164 ψήφους υπέρ, 166 ψήφους κατά και 7 αποχές)
+The english sentence:  (Parliament rejected the request, with 164 votes for, 166 votes against and 7 abstentions)
+Ai generated Translation:  The Assembly rejects the motion with 164 votes in favor, 166 against, and 7 abstentions.
+BERTScore Precision: 0.8011, Recall: 0.8104, F1: 0.8057
+METEOR Score: 0.49811613475177297
+Rouge Score: {'rouge1': np.float64(0.6206896551724138), 'rouge2': np.float64(0.3703703703703704), 'rougeL': np.float64(0.6206896551724138), 'rougeLsum': np.float64(0.6206896551724138)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, θα ήθελα να ευχαριστήσω τον κ. Poettering για τη δημοσιότητα που έδωσε μόλις τώρα σε αυτή τη συζήτηση.
+The english sentence:  Madam President, I would like to thank Mr Poettering for advertising this debate.
+Ai generated Translation:  Madam President, I would like to thank Mr. Poettering for the attention he has just given to this debate.
+BERTScore Precision: 0.8045, Recall: 0.9285, F1: 0.8620
+METEOR Score: 0.7708434613514829
+Rouge Score: {'rouge1': np.float64(0.7499999999999999), 'rouge2': np.float64(0.6666666666666667), 'rougeL': np.float64(0.7499999999999999), 'rougeLsum': np.float64(0.7499999999999999)}
+---------------------------------------------
+For the greek sentence:  Ευχαριστώ.
+The english sentence:  Thank you very much.
+Ai generated Translation:  Thank you.
+BERTScore Precision: 0.8680, Recall: 0.7207, F1: 0.7875
+METEOR Score: 0.13157894736842105
+Rouge Score: {'rouge1': np.float64(0.6666666666666666), 'rouge2': np.float64(0.5), 'rougeL': np.float64(0.6666666666666666), 'rougeLsum': np.float64(0.6666666666666666)}
+---------------------------------------------
+For the greek sentence:  Κυρία Πρόεδρε, υπολογίστηκε η ψήφος μου, την οποία δεν μπόρεσα να δώσω με τα ηλεκτρονικά μέσα, επειδή δεν έχω την κάρτα;
+The english sentence:  Madam President, has my vote been counted? I was unable to vote electronically, since I do not have a card.
+Ai generated Translation:  Madam President, was my vote counted, which I was unable to cast through electronic means because I do not have the card?
+BERTScore Precision: 0.7921, Recall: 0.8102, F1: 0.8010
+METEOR Score: 0.5725728822882287
+Rouge Score: {'rouge1': np.float64(0.6666666666666666), 'rouge2': np.float64(0.4), 'rougeL': np.float64(0.6666666666666666), 'rougeLsum': np.float64(0.6666666666666666)}
+---------------------------------------------
+For the greek sentence:  Η ψήφος μου ήταν "υπέρ";.
+The english sentence:  My vote was "in favour" .
+Ai generated Translation:  My vote was "yes"?
+BERTScore Precision: 0.7634, Recall: 0.7348, F1: 0.7488
+METEOR Score: 0.5076628352490421
+Rouge Score: {'rouge1': np.float64(0.6666666666666665), 'rouge2': np.float64(0.5714285714285715), 'rougeL': np.float64(0.6666666666666665), 'rougeLsum': np.float64(0.6666666666666665)}
+---------------------------------------------
+For the greek sentence:  Αγαπητοί συνάδελφοι, ακόμη μία φορά, πρέπει καθένας να έχει όντως την κάρτα του τη Δευτέρα.
+The english sentence:  Ladies and gentlemen, once again, we see it is essential for Members to bring their voting cards along on a Monday.
+Ai generated Translation:  Dear colleagues, once again, everyone must indeed have their card by Monday.
+BERTScore Precision: 0.7071, Recall: 0.6055, F1: 0.6524
+METEOR Score: 0.18507462686567164
+Rouge Score: {'rouge1': np.float64(0.24242424242424246), 'rouge2': np.float64(0.06451612903225806), 'rougeL': np.float64(0.24242424242424246), 'rougeLsum': np.float64(0.24242424242424246)}
+---------------------------------------------
+For the greek sentence:  Βλέπουμε ότι εδώ έχουμε πρόβλημα.
+The english sentence:  Clearly there is a problem here.
+Ai generated Translation:  We see that here we have a problem.
+BERTScore Precision: 0.6090, Recall: 0.6851, F1: 0.6448
+METEOR Score: 0.08064516129032259
+Rouge Score: {'rouge1': np.float64(0.42857142857142855), 'rouge2': np.float64(0.16666666666666666), 'rougeL': np.float64(0.28571428571428575), 'rougeLsum': np.float64(0.28571428571428575)}
+---------------------------------------------
