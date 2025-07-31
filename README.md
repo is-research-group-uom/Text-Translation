@@ -7,7 +7,7 @@ Basic template for translating comments between Greek ↔ English, English ↔ I
 3. Deepseek R1
 
 #### Pipeline
-1. We fetch data from the (Helsinki-NLP/europarl dataset on HuggingFace Dataset)[https://huggingface.co/datasets/Helsinki-NLP/europarl].
+1. We fetch data from the [Helsinki-NLP/europarl dataset on HuggingFace Dataset](https://huggingface.co/datasets/Helsinki-NLP/europarl).
 2. Each comment (a paragraph of conversation) is sent to the LLM for translation.
 3. For each comment, we create a dictionary with the following keys:
 - `from_language`: The source language sent to the model
